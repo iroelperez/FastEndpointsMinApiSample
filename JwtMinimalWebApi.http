@@ -1,0 +1,7 @@
+@JwtMinimalWebApi_HostAddress = http://localhost:5155
+
+GET {{JwtMinimalWebApi_HostAddress}}/data
+Accept: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJhNTFhMDU5MC1kZGE1LTRmYWItYjg2Ny0zNGRiOWQwYjFlNWMiLCJlbWFpbCI6Im5vZW1haWwiLCJ1aWQiOiIzM2NmZDJjNC0xYmIyLTQ5ZWUtOGFiMS01NDg3OWI1MGQ0YTQiLCJleHAiOjE3MTkwNjg2NzYsImlzcyI6Imh0dHA6Ly93d3cuc2FtcGxlLmNvbSIsImF1ZCI6Imh0dHA6Ly93d3cuc2FtcGxlLmNvbSJ9.v1GEp7EPYj8E07fQPtuoAV5SUXBkYrG6fFUMzpFZl6E
+
+###
